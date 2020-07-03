@@ -1,0 +1,15 @@
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\FirstSelenium.pdb
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\WebDriver.dll
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\WebDriver.xml
+D:\Study on Selenium\FirstSelenium\FirstSelenium\obj\Debug\FirstSelenium.csprojAssemblyReference.cache
+D:\Study on Selenium\FirstSelenium\FirstSelenium\obj\Debug\FirstSelenium.csproj.CoreCompileInputs.cache
+D:\Study on Selenium\FirstSelenium\FirstSelenium\obj\Debug\FirstSelenium.csproj.CopyComplete
+D:\Study on Selenium\FirstSelenium\FirstSelenium\obj\Debug\FirstSelenium.pdb
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\nunit.framework.dll
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\nunit.framework.pdb
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\nunit.framework.xml
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\WebDriver.Support.dll
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\WebDriver.Support.xml
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\FirstSelenium.dll.config
+D:\Study on Selenium\FirstSelenium\FirstSelenium\bin\Debug\FirstSelenium.dll
+D:\Study on Selenium\FirstSelenium\FirstSelenium\obj\Debug\FirstSelenium.dll
